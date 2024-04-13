@@ -6,6 +6,6 @@ theme: summoning
 
 team name: ℥tudio Σware
 
-team members: R.L.XTREME, P.SKUNCC, T.VOID, D.D
+team members: R.L.XTREME, P.SKUNCC, T.VOID, D.D.D
 
 publisher: PJCPSMDI
