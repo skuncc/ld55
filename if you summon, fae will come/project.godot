@@ -14,6 +14,10 @@ config/name="if you summon, fae will come"
 config/features=PackedStringArray("4.2", "GL Compatibility")
 config/icon="res://art/icon.svg"
 
+[display]
+
+window/stretch/scale=4.0
+
 [rendering]
 
 textures/canvas_textures/default_texture_filter=0
